@@ -5,7 +5,7 @@ import javax.persistence.EntityManager;
 import br.com.aluraJavaJPA01.modelo.Conta;
 import br.com.aluraJavaJPA01.util.JPAUtil;
 
-public class ContaTeste {
+public class TesteConta {
   public static void main(String[] args) {
 	  Conta conta = new Conta("Maria 1","1","Caixa Economica","1");
 	  
